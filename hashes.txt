@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cartas guardadas bajo llave
+
+This log tracks the cryptographic history and versioning for the song **Cartas guardadas bajo llave** (cartas-guardadas-bajo-llave).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:29:32.109975 | `v1` | `04a337919361149d72b9f225daa8984d6cf6611f486eca8b202f849ac4820712` | `1a3fdfef23fc22420293e3e98405ca78921be74c370903aa84ad8b3c036fb471` | `2026-06-15_cartas-guardadas-bajo-llave-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
