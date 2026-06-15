@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cartas-guardadas-bajo-llave/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Cartas guardadas bajo llave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-guardadas-bajo-llave/) |
+| **Get License** | [Secure Licensing Rights for Cartas guardadas bajo llave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-guardadas-bajo-llave/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I keep my letters under lock and key
+> But tonight I need you dancing right next to me
+> We got that fire, let the chemistry play
+> Tonight you're the one, I don't care what they say
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
